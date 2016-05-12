@@ -16,5 +16,6 @@
         <module>gaea-waf</module>
         <module>demo</module>
         <module>demo-cache</module>
+        <module>demo-mvc</module>
     </modules>
 </project>
