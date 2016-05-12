@@ -13,6 +13,8 @@
     <modules>
         <module>nd-rest</module>
         <module>nd-rest-client</module>
+        <module>gaea-waf</module>
         <module>demo</module>
+        <module>demo-cache</module>
     </modules>
 </project>

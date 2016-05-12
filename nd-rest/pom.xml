@@ -290,4 +290,18 @@
         </snapshotRepository>
     </distributionManagement>
 
+
+    <repositories>
+        <repository>
+            <id>nd.hy.sdp.sn.repository</id>
+            <name>NetDragon HY Maven Repository</name>
+            <url>http://nexus.sdp.nd/nexus/content/repositories/snapshots</url>
+        </repository>
+        <repository>
+            <id>nd.hy.sdp.repository</id>
+            <name>NetDragon HY Maven Repository</name>
+            <url>http://nexus.sdp.nd/nexus/content/groups/public/</url>
+        </repository>
+    </repositories>
+
 </project>
